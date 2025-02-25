@@ -18,6 +18,16 @@ Weather App is a responsive and modern web application that allows users to chec
 - 🌈 **Dynamic Backgrounds**: The background image changes based on the current weather.
 - 🌟 **Weather Icons**: Icons change based on the weather (e.g., sun, clouds, rain).
 
+
+Here are two screenshots of the Weather App:
+
+### Screenshot 1
+![Weather App Screenshot 1](./assets/screenshot1.png)
+
+### Screenshot 2
+![Weather App Screenshot 2](./assets/screenshot2.png)
+
+
 ## Tech Stack
 
 - **Frontend**:
