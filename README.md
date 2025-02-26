@@ -71,8 +71,6 @@ If you’re using VS Code, you can use the Live Server extension to launch it lo
 
 View the app in your browser at http://localhost:3000 (or the default port).
 
-Screenshots
-
 Contributing
 Feel free to fork this repository and submit pull requests for improvements or additional features. If you have any issues or suggestions, feel free to open an issue in the repository.
 
