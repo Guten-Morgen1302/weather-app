@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata = {
   title: "Real Time Weather",
   description: "A modern weather application",
-    generator: 'v0.dev'
+    generator: 'harsh dev'
 }
 
 export default function RootLayout({
