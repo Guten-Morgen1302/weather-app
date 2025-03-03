@@ -1,4 +1,4 @@
-# Weather App
+# Weather App 🌤️
 
 ## Overview
 
@@ -18,6 +18,7 @@ Weather App is a responsive and modern web application that allows users to chec
 - 🌈 **Dynamic Backgrounds**: The background image changes based on the current weather.
 - 🌟 **Weather Icons**: Icons change based on the weather (e.g., sun, clouds, rain).
 
+## Screenshots
 
 Here are two screenshots of the Weather App:
 
@@ -26,7 +27,6 @@ Here are two screenshots of the Weather App:
 
 ### Screenshot 2
 ![Weather App Screenshot 2](./assets/screenshot2.png)
-
 
 ## Tech Stack
 
@@ -68,15 +68,14 @@ Replace the placeholder with your API key.
 Open the index.html file in a web browser, or start a local server to run the project:
 
 If you’re using VS Code, you can use the Live Server extension to launch it locally.
-
 View the app in your browser at http://localhost:3000 (or the default port).
 
-Contributing
+🤝 Contributing
 Feel free to fork this repository and submit pull requests for improvements or additional features. If you have any issues or suggestions, feel free to open an issue in the repository.
 
-License
+📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
+🙏 Acknowledgments
 Thanks to OpenWeatherMap for providing the weather API.
 Inspiration from various weather apps for the design and functionality.
