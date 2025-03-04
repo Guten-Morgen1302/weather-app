@@ -49,17 +49,13 @@ Here are two screenshots of the Weather App:
 
 1. Clone the repository:
 
-   ```bash
+ ```bash
    git clone https://github.com/Guten-Morgen1302/weather-app.git
 Navigate to the project directory:
 
-bash
-Copy
 cd weather-app
 Install the required dependencies (if any):
 
-bash
-Copy
 npm install
 Add your API key to the project:
 
